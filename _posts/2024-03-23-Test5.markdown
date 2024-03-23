@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Test Post"
+title:  "Test Post05"
 date:   2024-03-23 22:41:56 +0900
 categories: 
-- CPP
+- PYTHON
 ---
-Test post
+Test post0505
 테스트 포스팅입니다.
