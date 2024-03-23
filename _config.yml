@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "졸려"
+title                    : "convivial company"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "맹구밍"
@@ -105,14 +105,14 @@ analytics:
 # Site Author
 author:
   name             : "맹구밍"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/maeng_goo.jpeg"
   bio              : "맹구의 **공부 기록**"
-  location         : "우리집"
+  location         : "KOREA, GYEONGGI-DO"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:hyun94032@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
