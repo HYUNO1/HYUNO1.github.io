@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "convivial company"
+title                    : "MAENG_GOO CODE"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "맹구밍"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "맹구밍"
   avatar           : "/assets/maeng_goo.jpeg"
-  bio              : "**맹구야** 철수되자!!"
+  bio              : "맹구야 **놀자**"
   location         : "KOREA, GYEONGGI-DO"
   email            :
   links:
